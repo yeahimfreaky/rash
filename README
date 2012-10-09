@@ -1,0 +1,8 @@
+	Use `make' to build everything. You can then test my shell by running `./rash'. My shell uses loglib to save a log file to `rash.log' when the shell exits. I fixed/cleaned up a lot of my shell code in rash.c.
+	The book's ush7.c is much 
+
+loglib.c
+	Interface for log messages.
+
+rash.c
+	My updated shell, with logging support.
